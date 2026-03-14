@@ -9,6 +9,7 @@ Date: March 12, 2026
 ## Key Analysis Findings
 
 **1. Shipping Mode Performance Bottlenecks**
+
 • Standard Class identified as primary issue:
   - 60.3% of total order volume
   - 45.2% delay rate  
@@ -16,6 +17,7 @@ Date: March 12, 2026
 • Same Day/First Class capacity constrained
 
 **2. Regional Market Opportunity Mapping**
+
 • Central region is clear leader:
   - 31.5% sales contribution
   - Highest avg profit (+$1,847/order)
@@ -23,12 +25,14 @@ Date: March 12, 2026
 • South/East regions underperforming
 
 **3. Transit Time Critical Metrics**
+
 • Average transit: 3.2 days
 • Median transit: 3.0 days  
 • 90th percentile: 6.0 days ← Priority focus
 • Orders >6 days require special attention
 
 **4. Profitability Combination Analysis**
+
 • Best combo: Central + Regular Air (+$2,450 profit)
 • Worst combo: South + Same Day (-$1,250 loss)
 • Region×Mode combinations explain 80% profit variance
