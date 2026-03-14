@@ -14,6 +14,7 @@ Date: March 12, 2026
   - 60.3% of total order volume
   - 45.2% delay rate  
   - Negative profitability in key regions
+
 • Same Day/First Class capacity constrained
 
 **2. Regional Market Opportunity Mapping**
@@ -21,6 +22,7 @@ Date: March 12, 2026
 • Central region is clear leader:
   - 31.5% sales contribution
   - Highest avg profit (+$1,847/order)
+
 • West region stable #2 performer
 • South/East regions underperforming
 
