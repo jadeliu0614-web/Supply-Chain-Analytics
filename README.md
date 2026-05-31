@@ -5,7 +5,13 @@ Analysis Scope: End-to-end order-to-profit pipeline
 Tools: Jupyter Notebook + Pandas + Seaborn + Matplotlib
 Duration: 4-hour comprehensive analysis
 Date: March 12, 2026
+## HTML Report
 
+👉 Static HTML report (best viewed in a browser):  
+[Supply Chain Analysis Report (HTML)](SupplyChainAnalysis-copy.html)
+
+GitHub may display the raw HTML source in the preview.  
+To properly view the report, either download the file using the **“Download”** button on the top right, or open this link in your browser so it renders as a full HTML page.
 ## Key Analysis Findings
 
 **1. Shipping Mode Performance Bottlenecks**
